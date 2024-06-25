@@ -1,0 +1,6 @@
+<div class="admonition">
+<div class="admonition-icon admonition-note-icon"></div>
+
+<div class="admonition-content admonition-note-content">Before upgrading the Content Pack on the earlier version of the UCMDB server (2023.05), make sure you deploy a hotfix first. The hotfix is necessary for the UCMDB server to validate the new version format of Content Pack (YY.Q). For details, see <a href="/doc/Universal_Discovery_Content_Pack/Main/CPUpgradeFailVersionIssue" title="Content Pack upgrade fail due to version format change">Content Pack upgrade fail due to version format change</a>.</div>
+</div>
+<p>For more information, see the full <a href="/doc/Universal_Discovery_Content_Pack/Main/CPSupportMatrix" title="Content Pack support matrix">Discovery and Integrations Content Pack Support Matrix</a>.</p>
